@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "My capstone project",
   "main": "server.js",
+  "engines": {
+    "node": "15.8.0"
+  },
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
